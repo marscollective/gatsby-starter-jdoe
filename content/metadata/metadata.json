@@ -1,0 +1,39 @@
+{
+  "siteUrl": "https://jdoe.marscollective.co",
+  "lang": "en",
+  "navbar": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Resume",
+      "url": "/#resume"
+    },
+    {
+      "label": "Portfolio",
+      "url": "/portfolio/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Contact",
+      "url": "/#contact"
+    }
+  ],
+  "colors": {
+    "DEFAULT": "#FAFAFA",
+    "highlight": "#4ADE80",
+    "accent": "#3B82F6",
+    "gray": "#808080",
+    "muted": "#262626",
+    "background": "#212121"
+  },
+  "favicon": "favicon.png",
+  "title": "John Doe",
+  "gtmID": "GTM-TG7DCN7",
+  "shortTitle": "JDoe",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at tristique eros, vitae finibus velit. Curabitur non enim mollis, posuere tortor vitae, pellentesque leo. Cras egestas varius nibh, et euismod metus volutpat ut. Pellentesque at nisl eu arcu accumsan mollis. Donec est ipsum, molestie quis ornare id, accumsan id odio."
+}
