@@ -33,7 +33,10 @@
   },
   "favicon": "favicon.png",
   "title": "John Doe",
-  "gtmID": "GTM-TG7DCN7",
+  "tracking": {
+    "which": "none",
+    "id": ""
+  },
   "shortTitle": "JDoe",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at tristique eros, vitae finibus velit. Curabitur non enim mollis, posuere tortor vitae, pellentesque leo. Cras egestas varius nibh, et euismod metus volutpat ut. Pellentesque at nisl eu arcu accumsan mollis. Donec est ipsum, molestie quis ornare id, accumsan id odio."
 }
